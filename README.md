@@ -1,4 +1,6 @@
 # FireSmokeDetection - using deep learning
+###### Dataset Link: [fire-smoke-nonfire-dataset](https://www.kaggle.com/datasets/siddharthsahni3/forest-fire-and-non-fire-dataset)
+###### Trained Model Link: [Models](https://drive.google.com/drive/folders/1udOv2NiYS4UPzyXqyBGKHayzpQCYw_d7?usp=sharing)
 
 ### 1. Overview
 #### Purpose:
