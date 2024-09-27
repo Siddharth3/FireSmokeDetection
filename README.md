@@ -112,7 +112,7 @@ predictOutput(model, sampleImgPath)
 ### 5. Contact Information
 For any questions or issues related to the dashboard, please contact:
 
-#### Dashboard Owner/Developer: Siddharth Sahni
+#### Code Owner/Developer: Siddharth Sahni
 #### Email: sidd.sahni3@gmail.com
 #### LinkedIn: [Siddharth Sahni](https://www.linkedin.com/in/er-siddharth-sahni-36b227103/)
 #### Website: [TheDataMan.github.io](https://siddharth3.github.io/TheDataMan.github.io/index.html)
